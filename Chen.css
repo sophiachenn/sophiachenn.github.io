@@ -1,0 +1,20 @@
+p {
+    font-style: italic;
+    text-align: center;
+    font-size: 21px;
+    color: black;
+    font-family: palatino;
+}
+
+h1{
+    color: black;
+    text-align:center;
+    text-decoration: underline;
+    font-family: palatino;
+}
+
+body{
+    background-image: url("images/background.jpg");
+    background-color: lightblue; 
+    background-size: cover;
+}
